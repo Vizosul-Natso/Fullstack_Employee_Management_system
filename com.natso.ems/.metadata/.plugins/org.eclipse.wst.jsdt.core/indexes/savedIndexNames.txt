@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\vizon\OneDrive\Desktop\com.natso.ems\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+737136845.index
+546265205.index
+3833508784.index
+759265140.index
+2057508998.index
